@@ -30,6 +30,7 @@ function App() {
           <small className="name">{element.name}</small>
         </div>
       ))}
+      
     </div>
   );
   // return (
